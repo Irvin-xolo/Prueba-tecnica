@@ -1,0 +1,28 @@
+.movie-item {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #ff9900; 
+  }
+  
+  .movie-item img {
+    max-width: 200px;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+  }
+  
+  .pagination button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    border: 2px solid #ff9900;
+    background-color: transparent;
+    color: #ff00b3;
+    cursor: pointer;
+  }
+  
+  .pagination button:hover {
+    background-color: #ff00f2; 
+    color: #FFFFFF; 
+  }
+  
